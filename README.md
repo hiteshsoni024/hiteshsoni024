@@ -1,6 +1,6 @@
 ## Hi there, I'm Hitesh 👋
 
-🎓 B.Tech in Electronics and Communication Engineering @ IIIT Nagpur
+🎓 Pre- final Year of B.Tech in Electronics and Communication Engineering @ IIIT Nagpur
 🔍 Passionate about **Core Electronics** & exploring the depth of it.
 
 🔭 I’m currently working on ...
