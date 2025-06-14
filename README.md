@@ -26,7 +26,7 @@ Designed and simulated an end-to-end secure analog communication system using RF
 Participated in a web development competition focused on redesigning the official website of IIIT Nagpur. Collaborated with a team to enhance UI/UX, improve code structure, and implement responsive layouts using modern web technologies. Secured 4th position among multiple competing teams, demonstrating effective teamwork and frontend development skills under time-bound constraints.
 
 ## 📫 Let's Connect
-- 📎 [LinkedIn](www.linkedin.com/in/hitesh-soni-09aa832a9)  
+- 📎 [Connect me on LinkedIn](www.linkedin.com/in/hitesh-soni-09aa832a9)  
 - ✉️ College E-mail bt23ece041@iiitn.ac.in
 - ✉️ Pesonal E-mail sonihitesh2024@gmail.com
 
