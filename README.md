@@ -41,7 +41,7 @@
     <li>Developed transmitter & receiver chains in Simulink, focusing on modulation and channel modeling.</li>
   </ul>
   <p><b>Tech Stack:</b> MATLAB, Simulink</p>
-  <a href="[https://github.com/hiteshsoni024/RF-Secure-Audio-Communication]" target="_blank"><b>View on GitHub &rarr;</b></a>
+  <a href="https://github.com/hiteshsoni024/RF-Secure-Audio-Communication" target="_blank"><b>View on GitHub &rarr;</b></a>
 </td>
 <td width="50%">
   <h3>🌐 IIITN Website Redesign (4th Place)</h3>
@@ -51,7 +51,7 @@
     <li>Contributed to a team effort that secured 4th place, demonstrating strong teamwork and front-end skills under pressure.</li>
   </ul>
   <p><b>Tech Stack:</b> HTML, CSS, JavaScript (Add other tech you used)</p>
-  <a href="[https://github.com/hiteshsoni024/Website-IIITN]" target="_blank"><b>View on GitHub &rarr;</b></a>
+  <a href="https://github.com/hiteshsoni024/Website-IIITN" target="_blank"><b>View on GitHub &rarr;</b></a>
 </td>
 </tr>
 </table>
