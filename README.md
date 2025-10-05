@@ -53,6 +53,17 @@
   <p><b>Tech Stack:</b> HTML, CSS, JavaScript (Add other tech you used)</p>
   <a href="https://github.com/hiteshsoni024/Website-IIITN" target="_blank"><b>View on GitHub &rarr;</b></a>
 </td>
+    <td width="50%">
+  <h3>💻 Single-Cycle RISC-V Processor</h3>
+  <p>Designed and implemented a 32-bit single-cycle processor from scratch, capable of executing a core subset of the RV32I instruction set.</p>
+  <ul>
+    <li>Built a complete datapath including a PC, Register File, ALU, and Memory interfaces.</li>
+    <li>Developed a dynamic, multi-level Control Unit to decode opcodes and manage the datapath signals.</li>
+    <li>Verified functional correctness for R, I, S, and B-type instructions using custom Verilog testbenches.</li>
+  </ul>
+  <p><b>Tech Stack:</b> Verilog, Xilinx Vivado</p>
+  <a href="https://github.com/hiteshsoni024/Single-Cycle-RISCV-Processor" target="_blank"><b>View on GitHub &rarr;</b></a>
+</td>
 </tr>
 </table>
 
