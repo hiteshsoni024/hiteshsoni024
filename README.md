@@ -34,14 +34,15 @@
 <table>
 <tr>
 <td width="50%">
-  <h3>🔐 RF-Based Secure Audio Communication</h3>
-  <p>Designed and simulated a complete end-to-end secure analog communication system. This project showcases my skills in system modeling and signal processing.</p>
+  <h3>💻 Single-Cycle RISC-V Processor</h3>
+  <p>Designed and implemented a 32-bit single-cycle processor from scratch, capable of executing a core subset of the RV32I instruction set.</p>
   <ul>
-    <li>Implemented XOR-based encryption/decryption for audio signal security.</li>
-    <li>Developed transmitter & receiver chains in Simulink, focusing on modulation and channel modeling.</li>
+    <li>Built a complete datapath including a PC, Register File, ALU, and Memory interfaces.</li>
+    <li>Developed a dynamic, multi-level Control Unit to decode opcodes and manage the datapath signals.</li>
+    <li>Verified functional correctness for R, I, S, and B-type instructions using custom Verilog testbenches.</li>
   </ul>
-  <p><b>Tech Stack:</b> MATLAB, Simulink</p>
-  <a href="https://github.com/hiteshsoni024/RF-Secure-Audio-Communication" target="_blank"><b>View on GitHub &rarr;</b></a>
+  <p><b>Tech Stack:</b> Verilog, Xilinx Vivado</p>
+  <a href="https://github.com/hiteshsoni024/Single-Cycle-RISCV-Processor" target="_blank"><b>View on GitHub &rarr;</b></a>
 </td>
 <td width="50%">
   <h3>🌐 IIITN Website Redesign (4th Place)</h3>
@@ -55,16 +56,15 @@
 </td>
 </tr>
     <tr>
-     <td width="50%">
-  <h3>💻 Single-Cycle RISC-V Processor</h3>
-  <p>Designed and implemented a 32-bit single-cycle processor from scratch, capable of executing a core subset of the RV32I instruction set.</p>
+    <td width="50%">
+  <h3>🔐 RF-Based Secure Audio Communication</h3>
+  <p>Designed and simulated a complete end-to-end secure analog communication system. This project showcases my skills in system modeling and signal processing.</p>
   <ul>
-    <li>Built a complete datapath including a PC, Register File, ALU, and Memory interfaces.</li>
-    <li>Developed a dynamic, multi-level Control Unit to decode opcodes and manage the datapath signals.</li>
-    <li>Verified functional correctness for R, I, S, and B-type instructions using custom Verilog testbenches.</li>
+    <li>Implemented XOR-based encryption/decryption for audio signal security.</li>
+    <li>Developed transmitter & receiver chains in Simulink, focusing on modulation and channel modeling.</li>
   </ul>
-  <p><b>Tech Stack:</b> Verilog, Xilinx Vivado</p>
-  <a href="https://github.com/hiteshsoni024/RISC-V" target="_blank"><b>View on GitHub &rarr;</b></a>
+  <p><b>Tech Stack:</b> MATLAB, Simulink</p>
+  <a href="https://github.com/hiteshsoni024/RF-Secure-Audio-Communication" target="_blank"><b>View on GitHub &rarr;</b></a>
 </td>
     </tr>
 </table>
