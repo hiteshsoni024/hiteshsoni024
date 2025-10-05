@@ -45,18 +45,6 @@
   <a href="https://github.com/hiteshsoni024/Single-Cycle-RISCV-Processor" target="_blank"><b>View on GitHub &rarr;</b></a>
 </td>
 <td width="50%">
-  <h3>🌐 IIITN Website Redesign (4th Place)</h3>
-  <p>Collaborated in an inter-college competition to redesign the official institute website, enhancing its UI/UX and code structure.</p>
-  <ul>
-    <li>Developed responsive front-end components and improved overall site navigation.</li>
-    <li>Contributed to a team effort that secured 4th place, demonstrating strong teamwork and front-end skills under pressure.</li>
-  </ul>
-  <p><b>Tech Stack:</b> HTML, CSS, JavaScript (Add other tech you used)</p>
-  <a href="https://github.com/hiteshsoni024/Website-IIITN" target="_blank"><b>View on GitHub &rarr;</b></a>
-</td>
-</tr>
-    <tr>
-    <td width="50%">
   <h3>🔐 RF-Based Secure Audio Communication</h3>
   <p>Designed and simulated a complete end-to-end secure analog communication system. This project showcases my skills in system modeling and signal processing.</p>
   <ul>
@@ -65,6 +53,18 @@
   </ul>
   <p><b>Tech Stack:</b> MATLAB, Simulink</p>
   <a href="https://github.com/hiteshsoni024/RF-Secure-Audio-Communication" target="_blank"><b>View on GitHub &rarr;</b></a>
+</td>
+</tr>
+    <tr>
+   <td width="50%">
+  <h3>🌐 IIITN Website Redesign (4th Place)</h3>
+  <p>Collaborated in an inter-college competition to redesign the official institute website, enhancing its UI/UX and code structure.</p>
+  <ul>
+    <li>Developed responsive front-end components and improved overall site navigation.</li>
+    <li>Contributed to a team effort that secured 4th place, demonstrating strong teamwork and front-end skills under pressure.</li>
+  </ul>
+  <p><b>Tech Stack:</b> HTML, CSS, JavaScript (Add other tech you used)</p>
+  <a href="https://github.com/hiteshsoni024/Website-IIITN" target="_blank"><b>View on GitHub &rarr;</b></a>
 </td>
     </tr>
 </table>
