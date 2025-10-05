@@ -11,7 +11,7 @@
 | :--- | :--- |
 | **HDLs** | `Verilog` `VHDL` |
 | **VLSI Tools** | `Xilinx Vivado` `GTKWave` `EDA Playground` `ModelSim` |
-| **System Design** | `MATLAB` `Simulink` `CST Studio Suite` |
+| **System Design** | `MATLAB Simulink` `CST Studio Suite` |
 | **Programming** | `C` `Python` `JavaScript` |
 
 ---
